@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: 8192
+Version: 0.0.1
+Summary: 128x64: AI inference with a great CLI and SDK. Placeholder release.
+License: MIT
+Project-URL: Homepage, https://128x64.com
+Keywords: ai,inference,llm,cli,128x64
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# 8192
+
+128x64: AI inference with a great CLI and SDK. 128 x 64 = 8192.
+
+This is a placeholder release that reserves the name. Real release coming soon.
+
+```
+pip install 8192
+```
+
+```python
+import run8192
+```
+
+CLI commands: `run64` and `run128` (identical).
+
+Website: https://128x64.com
+**Disregard link above for now**

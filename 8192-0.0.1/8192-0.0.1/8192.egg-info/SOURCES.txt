@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+8192.egg-info/PKG-INFO
+8192.egg-info/SOURCES.txt
+8192.egg-info/dependency_links.txt
+8192.egg-info/entry_points.txt
+8192.egg-info/top_level.txt
+run8192/__init__.py
+run8192/cli.py

@@ -1,0 +1,3 @@
+[console_scripts]
+run128 = run8192.cli:main
+run64 = run8192.cli:main

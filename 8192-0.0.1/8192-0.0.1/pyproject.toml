@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "8192"
+version = "0.0.1"
+description = "128x64: AI inference with a great CLI and SDK. Placeholder release."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+keywords = ["ai", "inference", "llm", "cli", "128x64"]
+
+[project.urls]
+Homepage = "https://128x64.com"
+
+[project.scripts]
+run64 = "run8192.cli:main"
+run128 = "run8192.cli:main"
+
+[tool.setuptools]
+packages = ["run8192"]
